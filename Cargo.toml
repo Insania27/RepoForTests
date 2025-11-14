@@ -1,0 +1,8 @@
+[package]
+name = "my_test"
+version = "0.1.0"
+edition = "2025"
+
+[dependencies]
+serde = "1.0"
+rand = "0.9"
